@@ -1,0 +1,6 @@
+seaborn
+Pillow
+shapely
+descartes
+rpy2
+
