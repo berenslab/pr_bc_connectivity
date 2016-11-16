@@ -42,3 +42,8 @@ Published as ...
 
 If you have any questions, please contact [Philipp Berens](mailto:philipp.berens@uni-tuebingen.de). We thank Moritz Helmstaedter and colleagues for making their [data and code](http://www.neuro.mpg.de/connectomics) available.
 
+
+[![DOI](https://zenodo.org/badge/63766281.svg)](https://zenodo.org/badge/latestdoi/63766281)
+
+
+
